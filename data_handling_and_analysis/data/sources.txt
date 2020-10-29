@@ -1,0 +1,8 @@
+scientists.csv: Generated in the Notebook pandas-intro.ipynb
+
+game_of_thrones.csv:
+https://www.kaggle.com/mylesoneill/game-of-thrones#character-deaths.csv
+
+movies_dataset.csv
+Modified from 
+https://www.kaggle.com/rounakbanik/the-movies-dataset#movies_metadata.csv
